@@ -1,0 +1,489 @@
+,,,,,,,,,,x
+Astronomical Low Tide Z ,,,,,,,,,1,
+Avalanche Z ,,,,,,,,,2,TSTM WIND
+Blizzard Z ,,,,,,,,,3,HAIL
+Coastal Flood Z ,,,,,,,,,4,ICE STORM/FLASH FLOOD
+Cold/Wind Chill Z ,,,,,,,,,5,WINTER STORM
+Debris Flow C ,,,,,,,,,6,HURRICANE OPAL/HIGH WINDS
+Dense Fog Z ,,,,,,,,,7,THUNDERSTORM WINDS
+Dense Smoke Z ,,,,,,,,,8,HURRICANE ERIN
+Drought Z ,,,,,,,,,9,HURRICANE OPAL
+Dust Devil C ,,,,,,,,,10,HEAVY RAIN
+Dust Storm Z ,,,,,,,,,11,LIGHTNING
+Excessive Heat Z ,,,,,,,,,12,THUNDERSTORM WIND
+Extreme Cold/Wind Chill Z ,,,,,,,,,13,DENSE FOG
+Flash Flood C ,,,,,,,,,14,RIP CURRENT
+Flood C ,,,,,,,,,15,THUNDERSTORM WINS
+Frost/Freeze Z ,,,,,,,,,16,FLASH FLOODING
+Funnel Cloud C ,,,,,,,,,17,FLASH FLOOD
+Freezing Fog Z ,,,,,,,,,18,TORNADO F0
+Hail C ,,,,,,,,,19,THUNDERSTORM WINDS LIGHTNING
+Heat Z ,,,,,,,,,20,THUNDERSTORM WINDS/HAIL
+Heavy Rain C ,,,,,,,,,21,HEAT
+Heavy Snow Z ,,,,,,,,,22,HIGH WINDS
+High Surf Z ,,,,,,,,,23,WIND
+High Wind Z ,,,,,,,,,24,HEAVY RAINS
+Hurricane (Typhoon) Z ,,,,,,,,,25,LIGHTNING AND HEAVY RAIN
+Ice Storm Z ,,,,,,,,,26,THUNDERSTORM WINDS HAIL
+Lake-Effect Snow Z ,,,,,,,,,27,COLD
+Lakeshore Flood Z ,,,,,,,,,28,HEAVY RAIN/LIGHTNING
+Lightning C ,,,,,,,,,29,FLASH FLOODING/THUNDERSTORM WI
+Marine Hail M ,,,,,,,,,30,FLOODING
+Marine High Wind M ,,,,,,,,,31,WATERSPOUT
+Marine Strong Wind M ,,,,,,,,,32,EXTREME COLD
+Marine Thunderstorm Wind M ,,,,,,,,,33,LIGHTNING/HEAVY RAIN
+Rip Current Z ,,,,,,,,,34,BREAKUP FLOODING
+Seiche Z ,,,,,,,,,35,HIGH WIND
+Sleet Z ,,,,,,,,,36,FREEZE
+Storm Surge/Tide Z ,,,,,,,,,37,RIVER FLOOD
+Strong Wind Z ,,,,,,,,,38,HIGH WINDS HEAVY RAINS
+Thunderstorm Wind C ,,,,,,,,,39,AVALANCHE
+Tornado C ,,,,,,,,,40,MARINE MISHAP
+Tropical Depression Z ,,,,,,,,,41,HIGH TIDES
+Tropical Storm Z ,,,,,,,,,42,HIGH WIND/SEAS
+Tsunami Z ,,,,,,,,,43,HIGH WINDS/HEAVY RAIN
+Volcanic Ash Z ,,,,,,,,,44,HIGH SEAS
+Waterspout M ,,,,,,,,,45,COASTAL FLOOD
+Wildfire Z ,,,,,,,,,46,SEVERE TURBULENCE
+Winter Storm Z ,,,,,,,,,47,RECORD RAINFALL
+Winter Weather Z,,,,,,,,,48,HEAVY SNOW
+,,,,,,,,,49,HEAVY SNOW/WIND
+,,,,,,,,,50,DUST STORM
+,,,,,,,,,51,FLOOD
+,,,,,,,,,52,APACHE COUNTY
+,,,,,,,,,53,SLEET
+,,,,,,,,,54,DUST DEVIL
+,,,,,,,,,55,ICE STORM
+,,,,,,,,,56,EXCESSIVE HEAT
+,,,,,,,,,57,THUNDERSTORM WINDS/FUNNEL CLOU
+,,,,,,,,,58,GUSTY WINDS
+,,,,,,,,,59,FLOODING/HEAVY RAIN
+,,,,,,,,,60,HEAVY SURF COASTAL FLOODING
+,,,,,,,,,61,HIGH SURF
+,,,,,,,,,62,WILD FIRES
+,,,,,,,,,63,HIGH
+,,,,,,,,,64,WINTER STORM HIGH WINDS
+,,,,,,,,,65,WINTER STORMS
+,,,,,,,,,66,MUDSLIDES
+,,,,,,,,,67,RAINSTORM
+,,,,,,,,,68,SEVERE THUNDERSTORM
+,,,,,,,,,69,SEVERE THUNDERSTORMS
+,,,,,,,,,70,SEVERE THUNDERSTORM WINDS
+,,,,,,,,,71,THUNDERSTORMS WINDS
+,,,,,,,,,72,FLOOD/FLASH FLOOD
+,,,,,,,,,73,FLOOD/RAIN/WINDS
+,,,,,,,,,74,THUNDERSTORMS
+,,,,,,,,,75,FLASH FLOOD WINDS
+,,,,,,,,,76,WINDS
+,,,,,,,,,77,FUNNEL CLOUD
+,,,,,,,,,78,HIGH WIND DAMAGE
+,,,,,,,,,79,STRONG WIND
+,,,,,,,,,80,HEAVY SNOWPACK
+,,,,,,,,,81,FLASH FLOOD/
+,,,,,,,,,82,HEAVY SURF
+,,,,,,,,,83,DRY MIRCOBURST WINDS
+,,,,,,,,,84,DRY MICROBURST
+,,,,,,,,,85,URBAN FLOOD
+,,,,,,,,,86,THUNDERSTORM WINDSS
+,,,,,,,,,87,MICROBURST WINDS
+,,,,,,,,,88,HEAT WAVE
+,,,,,,,,,89,UNSEASONABLY WARM
+,,,,,,,,,90,COASTAL FLOODING
+,,,,,,,,,91,STRONG WINDS
+,,,,,,,,,92,BLIZZARD
+,,,,,,,,,93,WATERSPOUT/TORNADO
+,,,,,,,,,94,WATERSPOUT TORNADO
+,,,,,,,,,95,STORM SURGE
+,,,,,,,,,96,URBAN/SMALL STREAM FLOOD
+,,,,,,,,,97,WATERSPOUT-
+,,,,,,,,,98,"TORNADOES, TSTM WIND, HAIL"
+,,,,,,,,,99,TROPICAL STORM ALBERTO
+,,,,,,,,,100,TROPICAL STORM
+,,,,,,,,,101,TROPICAL STORM GORDON
+,,,,,,,,,102,TROPICAL STORM JERRY
+,,,,,,,,,103,LIGHTNING THUNDERSTORM WINDS
+,,,,,,,,,104,URBAN FLOODING
+,,,,,,,,,105,MINOR FLOODING
+,,,,,,,,,106,WATERSPOUT-TORNADO
+,,,,,,,,,107,LIGHTNING INJURY
+,,,,,,,,,108,LIGHTNING AND THUNDERSTORM WIN
+,,,,,,,,,109,FLASH FLOODS
+,,,,,,,,,110,THUNDERSTORM WINDS53
+,,,,,,,,,111,WILDFIRE
+,,,,,,,,,112,DAMAGING FREEZE
+,,,,,,,,,113,THUNDERSTORM WINDS 13
+,,,,,,,,,114,HURRICANE
+,,,,,,,,,115,SNOW
+,,,,,,,,,116,LIGNTNING
+,,,,,,,,,117,FROST
+,,,,,,,,,118,FREEZING RAIN/SNOW
+,,,,,,,,,119,HIGH WINDS/
+,,,,,,,,,120,THUNDERSNOW
+,,,,,,,,,121,FLOODS
+,,,,,,,,,122,COOL AND WET
+,,,,,,,,,123,HEAVY RAIN/SNOW
+,,,,,,,,,124,GLAZE ICE
+,,,,,,,,,125,MUD SLIDE
+,,,,,,,,,126,HIGH  WINDS
+,,,,,,,,,127,RURAL FLOOD
+,,,,,,,,,128,MUD SLIDES
+,,,,,,,,,129,EXTREME HEAT
+,,,,,,,,,130,DROUGHT
+,,,,,,,,,131,COLD AND WET CONDITIONS
+,,,,,,,,,132,EXCESSIVE WETNESS
+,,,,,,,,,133,SLEET/ICE STORM
+,,,,,,,,,134,GUSTNADO
+,,,,,,,,,135,FREEZING RAIN
+,,,,,,,,,136,SNOW AND HEAVY SNOW
+,,,,,,,,,137,GROUND BLIZZARD
+,,,,,,,,,138,EXTREME WIND CHILL
+,,,,,,,,,139,MAJOR FLOOD
+,,,,,,,,,140,SNOW/HEAVY SNOW
+,,,,,,,,,141,FREEZING RAIN/SLEET
+,,,,,,,,,142,ICE JAM FLOODING
+,,,,,,,,,143,COLD AIR TORNADO
+,,,,,,,,,144,WIND DAMAGE
+,,,,,,,,,145,FOG
+,,,,,,,,,146,TSTM WIND 55
+,,,,,,,,,147,SMALL STREAM FLOOD
+,,,,,,,,,148,THUNDERTORM WINDS
+,,,,,,,,,149,HAIL/WINDS
+,,,,,,,,,150,SNOW AND ICE
+,,,,,,,,,151,WIND STORM
+,,,,,,,,,152,GRASS FIRES
+,,,,,,,,,153,LAKE FLOOD
+,,,,,,,,,154,HAIL/WIND
+,,,,,,,,,155,WIND/HAIL
+,,,,,,,,,156,ICE
+,,,,,,,,,157,SNOW AND ICE STORM
+,,,,,,,,,158,THUNDERSTORM  WINDS
+,,,,,,,,,159,WINTER WEATHER
+,,,,,,,,,160,DROUGHT/EXCESSIVE HEAT
+,,,,,,,,,161,THUNDERSTORMS WIND
+,,,,,,,,,162,TUNDERSTORM WIND
+,,,,,,,,,163,URBAN AND SMALL STREAM FLOODIN
+,,,,,,,,,164,THUNDERSTORM WIND/LIGHTNING
+,,,,,,,,,165,HEAVY RAIN/SEVERE WEATHER
+,,,,,,,,,166,THUNDERSTORM
+,,,,,,,,,167,WATERSPOUT/ TORNADO
+,,,,,,,,,168,LIGHTNING.
+,,,,,,,,,169,HURRICANE-GENERATED SWELLS
+,,,,,,,,,170,RIVER AND STREAM FLOOD
+,,,,,,,,,171,HIGH WINDS/COASTAL FLOOD
+,,,,,,,,,172,RAIN
+,,,,,,,,,173,RIVER FLOODING
+,,,,,,,,,174,ICE FLOES
+,,,,,,,,,175,THUNDERSTORM WIND G50
+,,,,,,,,,176,LIGHTNING FIRE
+,,,,,,,,,177,HEAVY LAKE SNOW
+,,,,,,,,,178,RECORD COLD
+,,,,,,,,,179,HEAVY SNOW/FREEZING RAIN
+,,,,,,,,,180,COLD WAVE
+,,,,,,,,,181,DUST DEVIL WATERSPOUT
+,,,,,,,,,182,TORNADO F3
+,,,,,,,,,183,TORNDAO
+,,,,,,,,,184,FLOOD/RIVER FLOOD
+,,,,,,,,,185,MUD SLIDES URBAN FLOODING
+,,,,,,,,,186,TORNADO F1
+,,,,,,,,,187,GLAZE/ICE STORM
+,,,,,,,,,188,GLAZE
+,,,,,,,,,189,HEAVY SNOW/WINTER STORM
+,,,,,,,,,190,MICROBURST
+,,,,,,,,,191,AVALANCE
+,,,,,,,,,192,BLIZZARD/WINTER STORM
+,,,,,,,,,193,DUST STORM/HIGH WINDS
+,,,,,,,,,194,ICE JAM
+,,,,,,,,,195,FOREST FIRES
+,,,,,,,,,196,FROST\FREEZE
+,,,,,,,,,197,THUNDERSTORM WINDS.
+,,,,,,,,,198,HVY RAIN
+,,,,,,,,,199,HAIL 150
+,,,,,,,,,200,HAIL 075
+,,,,,,,,,201,HAIL 100
+,,,,,,,,,202,THUNDERSTORM WIND G55
+,,,,,,,,,203,HAIL 125
+,,,,,,,,,204,THUNDERSTORM WIND G60
+,,,,,,,,,205,THUNDERSTORM WINDS G60
+,,,,,,,,,206,HARD FREEZE
+,,,,,,,,,207,HAIL 200
+,,,,,,,,,208,HEAVY SNOW AND HIGH WINDS
+,,,,,,,,,209,HEAVY SNOW/HIGH WINDS & FLOOD
+,,,,,,,,,210,HEAVY RAIN AND FLOOD
+,,,,,,,,,211,RIP CURRENTS/HEAVY SURF
+,,,,,,,,,212,URBAN AND SMALL
+,,,,,,,,,213,WILDFIRES
+,,,,,,,,,214,FOG AND COLD TEMPERATURES
+,,,,,,,,,215,SNOW/COLD
+,,,,,,,,,216,FLASH FLOOD FROM ICE JAMS
+,,,,,,,,,217,TSTM WIND G58
+,,,,,,,,,218,MUDSLIDE
+,,,,,,,,,219,HEAVY SNOW SQUALLS
+,,,,,,,,,220,SNOW SQUALL
+,,,,,,,,,221,SNOW/ICE STORM
+,,,,,,,,,222,HEAVY SNOW/SQUALLS
+,,,,,,,,,223,HEAVY SNOW-SQUALLS
+,,,,,,,,,224,ICY ROADS
+,,,,,,,,,225,HEAVY MIX
+,,,,,,,,,226,SNOW FREEZING RAIN
+,,,,,,,,,227,SNOW/SLEET
+,,,,,,,,,228,SNOW/FREEZING RAIN
+,,,,,,,,,229,SNOW SQUALLS
+,,,,,,,,,230,SNOW/SLEET/FREEZING RAIN
+,,,,,,,,,231,RECORD SNOW
+,,,,,,,,,232,HAIL 0.75
+,,,,,,,,,233,RECORD HEAT
+,,,,,,,,,234,THUNDERSTORM WIND 65MPH
+,,,,,,,,,235,THUNDERSTORM WIND/ TREES
+,,,,,,,,,236,THUNDERSTORM WIND/AWNING
+,,,,,,,,,237,THUNDERSTORM WIND 98 MPH
+,,,,,,,,,238,THUNDERSTORM WIND TREES
+,,,,,,,,,239,TORNADO F2
+,,,,,,,,,240,RIP CURRENTS
+,,,,,,,,,241,HURRICANE EMILY
+,,,,,,,,,242,COASTAL SURGE
+,,,,,,,,,243,HURRICANE GORDON
+,,,,,,,,,244,HURRICANE FELIX
+,,,,,,,,,245,THUNDERSTORM WIND 60 MPH
+,,,,,,,,,246,THUNDERSTORM WINDS 63 MPH
+,,,,,,,,,247,THUNDERSTORM WIND/ TREE
+,,,,,,,,,248,THUNDERSTORM DAMAGE TO
+,,,,,,,,,249,THUNDERSTORM WIND 65 MPH
+,,,,,,,,,250,FLASH FLOOD - HEAVY RAIN
+,,,,,,,,,251,THUNDERSTORM WIND.
+,,,,,,,,,252,FLASH FLOOD/ STREET
+,,,,,,,,,253,BLOWING SNOW
+,,,,,,,,,254,HEAVY SNOW/BLIZZARD
+,,,,,,,,,255,THUNDERSTORM HAIL
+,,,,,,,,,256,THUNDERSTORM WINDSHAIL
+,,,,,,,,,257,LIGHTNING  WAUSEON
+,,,,,,,,,258,THUDERSTORM WINDS
+,,,,,,,,,259,ICE AND SNOW
+,,,,,,,,,260,STORM FORCE WINDS
+,,,,,,,,,261,HEAVY SNOW/ICE
+,,,,,,,,,262,LIGHTING
+,,,,,,,,,263,HIGH WIND/HEAVY SNOW
+,,,,,,,,,264,THUNDERSTORM WINDS AND
+,,,,,,,,,265,HEAVY PRECIPITATION
+,,,,,,,,,266,HIGH WIND/BLIZZARD
+,,,,,,,,,267,TSTM WIND DAMAGE
+,,,,,,,,,268,FLOOD FLASH
+,,,,,,,,,269,RAIN/WIND
+,,,,,,,,,270,SNOW/ICE
+,,,,,,,,,271,HAIL 75
+,,,,,,,,,272,HEAT WAVE DROUGHT
+,,,,,,,,,273,HEAVY SNOW/BLIZZARD/AVALANCHE
+,,,,,,,,,274,HEAT WAVES
+,,,,,,,,,275,UNSEASONABLY WARM AND DRY
+,,,,,,,,,276,UNSEASONABLY COLD
+,,,,,,,,,277,RECORD/EXCESSIVE HEAT
+,,,,,,,,,278,THUNDERSTORM WIND G52
+,,,,,,,,,279,HIGH WAVES
+,,,,,,,,,280,FLASH FLOOD/FLOOD
+,,,,,,,,,281,FLOOD/FLASH
+,,,,,,,,,282,LOW TEMPERATURE
+,,,,,,,,,283,HEAVY RAINS/FLOODING
+,,,,,,,,,284,THUNDERESTORM WINDS
+,,,,,,,,,285,THUNDERSTORM WINDS/FLOODING
+,,,,,,,,,286,HYPOTHERMIA
+,,,,,,,,,287,THUNDEERSTORM WINDS
+,,,,,,,,,288,THUNERSTORM WINDS
+,,,,,,,,,289,HIGH WINDS/COLD
+,,,,,,,,,290,COLD/WINDS
+,,,,,,,,,291,SNOW/ BITTER COLD
+,,,,,,,,,292,COLD WEATHER
+,,,,,,,,,293,RAPIDLY RISING WATER
+,,,,,,,,,294,WILD/FOREST FIRE
+,,,,,,,,,295,ICE/STRONG WINDS
+,,,,,,,,,296,SNOW/HIGH WINDS
+,,,,,,,,,297,HIGH WINDS/SNOW
+,,,,,,,,,298,SNOWMELT FLOODING
+,,,,,,,,,299,HEAVY SNOW AND STRONG WINDS
+,,,,,,,,,300,SNOW ACCUMULATION
+,,,,,,,,,301,SNOW/ ICE
+,,,,,,,,,302,SNOW/BLOWING SNOW
+,,,,,,,,,303,TORNADOES
+,,,,,,,,,304,THUNDERSTORM WIND/HAIL
+,,,,,,,,,305,FREEZING DRIZZLE
+,,,,,,,,,306,HAIL 175
+,,,,,,,,,307,FLASH FLOODING/FLOOD
+,,,,,,,,,308,HAIL 275
+,,,,,,,,,309,HAIL 450
+,,,,,,,,,310,EXCESSIVE RAINFALL
+,,,,,,,,,311,THUNDERSTORMW
+,,,,,,,,,312,HAILSTORM
+,,,,,,,,,313,TSTM WINDS
+,,,,,,,,,314,TSTMW
+,,,,,,,,,315,TSTM WIND 65)
+,,,,,,,,,316,TROPICAL STORM DEAN
+,,,,,,,,,317,THUNDERSTORM WINDS/ FLOOD
+,,,,,,,,,318,LANDSLIDE
+,,,,,,,,,319,HIGH WIND AND SEAS
+,,,,,,,,,320,THUNDERSTORMWINDS
+,,,,,,,,,321,WILD/FOREST FIRES
+,,,,,,,,,322,HEAVY SEAS
+,,,,,,,,,323,HAIL DAMAGE
+,,,,,,,,,324,FLOOD & HEAVY RAIN
+,,,,,,,,,325,?
+,,,,,,,,,326,THUNDERSTROM WIND
+,,,,,,,,,327,FLOOD/FLASHFLOOD
+,,,,,,,,,328,HIGH WATER
+,,,,,,,,,329,HIGH WIND 48
+,,,,,,,,,330,LANDSLIDES
+,,,,,,,,,331,URBAN/SMALL STREAM
+,,,,,,,,,332,BRUSH FIRE
+,,,,,,,,,333,HEAVY SHOWER
+,,,,,,,,,334,HEAVY SWELLS
+,,,,,,,,,335,URBAN SMALL
+,,,,,,,,,336,URBAN FLOODS
+,,,,,,,,,337,FLASH FLOOD/LANDSLIDE
+,,,,,,,,,338,HEAVY RAIN/SMALL STREAM URBAN
+,,,,,,,,,339,FLASH FLOOD LANDSLIDES
+,,,,,,,,,340,TSTM WIND/HAIL
+,,,,,,,,,341,Other
+,,,,,,,,,342,Ice jam flood (minor
+,,,,,,,,,343,Tstm Wind
+,,,,,,,,,344,URBAN/SML STREAM FLD
+,,,,,,,,,345,ROUGH SURF
+,,,,,,,,,346,Heavy Surf
+,,,,,,,,,347,Dust Devil
+,,,,,,,,,348,Marine Accident
+,,,,,,,,,349,Freeze
+,,,,,,,,,350,Strong Wind
+,,,,,,,,,351,COASTAL STORM
+,,,,,,,,,352,Erosion/Cstl Flood
+,,,,,,,,,353,River Flooding
+,,,,,,,,,354,Damaging Freeze
+,,,,,,,,,355,Beach Erosion
+,,,,,,,,,356,High Surf
+,,,,,,,,,357,Heavy Rain/High Surf
+,,,,,,,,,358,Unseasonable Cold
+,,,,,,,,,359,Early Frost
+,,,,,,,,,360,Wintry Mix
+,,,,,,,,,361,Extreme Cold
+,,,,,,,,,362,Coastal Flooding
+,,,,,,,,,363,Torrential Rainfall
+,,,,,,,,,364,Landslump
+,,,,,,,,,365,Hurricane Edouard
+,,,,,,,,,366,Coastal Storm
+,,,,,,,,,367,TIDAL FLOODING
+,,,,,,,,,368,Tidal Flooding
+,,,,,,,,,369,Strong Winds
+,,,,,,,,,370,EXTREME WINDCHILL
+,,,,,,,,,371,Glaze
+,,,,,,,,,372,Extended Cold
+,,,,,,,,,373,Whirlwind
+,,,,,,,,,374,Heavy snow shower
+,,,,,,,,,375,Light snow
+,,,,,,,,,376,Light Snow
+,,,,,,,,,377,MIXED PRECIP
+,,,,,,,,,378,Freezing Spray
+,,,,,,,,,379,DOWNBURST
+,,,,,,,,,380,Mudslides
+,,,,,,,,,381,Microburst
+,,,,,,,,,382,Mudslide
+,,,,,,,,,383,Cold
+,,,,,,,,,384,Coastal Flood
+,,,,,,,,,385,Snow Squalls
+,,,,,,,,,386,Wind Damage
+,,,,,,,,,387,Light Snowfall
+,,,,,,,,,388,Freezing Drizzle
+,,,,,,,,,389,Gusty wind/rain
+,,,,,,,,,390,GUSTY WIND/HVY RAIN
+,,,,,,,,,391,Wind
+,,,,,,,,,392,Cold Temperature
+,,,,,,,,,393,Heat Wave
+,,,,,,,,,394,Snow
+,,,,,,,,,395,COLD AND SNOW
+,,,,,,,,,396,RAIN/SNOW
+,,,,,,,,,397,TSTM WIND (G45)
+,,,,,,,,,398,Gusty Winds
+,,,,,,,,,399,GUSTY WIND
+,,,,,,,,,400,TSTM WIND 40
+,,,,,,,,,401,TSTM WIND 45
+,,,,,,,,,402,TSTM WIND (41)
+,,,,,,,,,403,TSTM WIND (G40)
+,,,,,,,,,404,Frost/Freeze
+,,,,,,,,,405,AGRICULTURAL FREEZE
+,,,,,,,,,406,OTHER
+,,,,,,,,,407,Hypothermia/Exposure
+,,,,,,,,,408,HYPOTHERMIA/EXPOSURE
+,,,,,,,,,409,Lake Effect Snow
+,,,,,,,,,410,Freezing Rain
+,,,,,,,,,411,Mixed Precipitation
+,,,,,,,,,412,BLACK ICE
+,,,,,,,,,413,COASTALSTORM
+,,,,,,,,,414,LIGHT SNOW
+,,,,,,,,,415,DAM BREAK
+,,,,,,,,,416,Gusty winds
+,,,,,,,,,417,blowing snow
+,,,,,,,,,418,GRADIENT WIND
+,,,,,,,,,419,TSTM WIND AND LIGHTNING
+,,,,,,,,,420,gradient wind
+,,,,,,,,,421,Gradient wind
+,,,,,,,,,422,Freezing drizzle
+,,,,,,,,,423,WET MICROBURST
+,,,,,,,,,424,Heavy surf and wind
+,,,,,,,,,425,TYPHOON
+,,,,,,,,,426,HIGH SWELLS
+,,,,,,,,,427,SMALL HAIL
+,,,,,,,,,428,UNSEASONAL RAIN
+,,,,,,,,,429,COASTAL FLOODING/EROSION
+,,,,,,,,,430, TSTM WIND (G45)
+,,,,,,,,,431,TSTM WIND  (G45)
+,,,,,,,,,432,HIGH WIND (G40)
+,,,,,,,,,433,TSTM WIND (G35)
+,,,,,,,,,434,COASTAL EROSION
+,,,,,,,,,435,SEICHE
+,,,,,,,,,436,COASTAL  FLOODING/EROSION
+,,,,,,,,,437,HYPERTHERMIA/EXPOSURE
+,,,,,,,,,438,WINTRY MIX
+,,,,,,,,,439,ROCK SLIDE
+,,,,,,,,,440,GUSTY WIND/HAIL
+,,,,,,,,,441, TSTM WIND
+,,,,,,,,,442,LANDSPOUT
+,,,,,,,,,443,EXCESSIVE SNOW
+,,,,,,,,,444,LAKE EFFECT SNOW
+,,,,,,,,,445,FLOOD/FLASH/FLOOD
+,,,,,,,,,446,MIXED PRECIPITATION
+,,,,,,,,,447,WIND AND WAVE
+,,,,,,,,,448,LIGHT FREEZING RAIN
+,,,,,,,,,449,ICE ROADS
+,,,,,,,,,450,ROUGH SEAS
+,,,,,,,,,451,TSTM WIND G45
+,,,,,,,,,452,NON-SEVERE WIND DAMAGE
+,,,,,,,,,453,WARM WEATHER
+,,,,,,,,,454,THUNDERSTORM WIND (G40)
+,,,,,,,,,455, FLASH FLOOD
+,,,,,,,,,456,LATE SEASON SNOW
+,,,,,,,,,457,WINTER WEATHER MIX
+,,,,,,,,,458,ROGUE WAVE
+,,,,,,,,,459,FALLING SNOW/ICE
+,,,,,,,,,460,NON-TSTM WIND
+,,,,,,,,,461,NON TSTM WIND
+,,,,,,,,,462,BLOWING DUST
+,,,,,,,,,463,VOLCANIC ASH
+,,,,,,,,,464,   HIGH SURF ADVISORY
+,,,,,,,,,465,HAZARDOUS SURF
+,,,,,,,,,466,WHIRLWIND
+,,,,,,,,,467,ICE ON ROAD
+,,,,,,,,,468,DROWNING
+,,,,,,,,,469,EXTREME COLD/WIND CHILL
+,,,,,,,,,470,MARINE TSTM WIND
+,,,,,,,,,471,HURRICANE/TYPHOON
+,,,,,,,,,472,WINTER WEATHER/MIX
+,,,,,,,,,473,FROST/FREEZE
+,,,,,,,,,474,ASTRONOMICAL HIGH TIDE
+,,,,,,,,,475,HEAVY SURF/HIGH SURF
+,,,,,,,,,476,TROPICAL DEPRESSION
+,,,,,,,,,477,LAKE-EFFECT SNOW
+,,,,,,,,,478,MARINE HIGH WIND
+,,,,,,,,,479,TSUNAMI
+,,,,,,,,,480,STORM SURGE/TIDE
+,,,,,,,,,481,COLD/WIND CHILL
+,,,,,,,,,482,LAKESHORE FLOOD
+,,,,,,,,,483,MARINE THUNDERSTORM WIND
+,,,,,,,,,484,MARINE STRONG WIND
+,,,,,,,,,485,ASTRONOMICAL LOW TIDE
+,,,,,,,,,486,DENSE SMOKE
+,,,,,,,,,487,MARINE HAIL
+,,,,,,,,,488,FREEZING FOG
